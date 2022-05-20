@@ -1,0 +1,125 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color:white;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    margin-top: 15px;
+    text-align: center;
+    color: rgb(36, 36, 36);
+    font-size: 4em;
+    font-family: fantasy;
+}
+
+form{
+    margin-left: 36vw;
+    margin-top: 1vh;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+    box-shadow:7px 7px  20px #ccc;
+}
+table{
+    padding: 5% 10px;
+}
+
+#display{
+    border: none;
+    margin: 15px 10px;
+    padding: 10px 4px;
+    font-size: 28px;
+    width: 250px;
+    color: rgb(75, 75, 75);
+    border-radius: 15px;
+
+}
+input[type=button]{
+    font-family: sans-serif;
+    padding: 0;
+    width: 65px;
+    height: 65px;
+    font-size: 28px;
+    background-color:rgb(132, 128, 148);
+    color: #c4c4c4;
+    border: none;
+    border-radius: 50%;
+    box-shadow:5px 5px  15px rgba(148, 148, 148, .1);
+    transition: 0.3s;
+}
+
+input[type=button]:hover{
+    color: royalblue;
+    box-shadow: 0 0 20px rgb(59, 59, 59);
+    background-color: white;
+}
+input[type=button]:focus{
+    outline: none;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color:white;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    margin-top: 15px;
+    text-align: center;
+    color: rgb(36, 36, 36);
+    font-size: 4em;
+    font-family: fantasy;
+}
+
+form{
+    margin-left: 36vw;
+    margin-top: 1vh;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+    box-shadow:7px 7px  20px #ccc;
+}
+table{
+    padding: 5% 10px;
+}
+
+#display{
+    border: none;
+    margin: 15px 10px;
+    padding: 10px 4px;
+    font-size: 28px;
+    width: 250px;
+    color: rgb(75, 75, 75);
+    border-radius: 15px;
+
+}
+input[type=button]{
+    font-family: sans-serif;
+    padding: 0;
+    width: 65px;
+    height: 65px;
+    font-size: 28px;
+    background-color:rgb(132, 128, 148);
+    color: #c4c4c4;
+    border: none;
+    border-radius: 50%;
+    box-shadow:5px 5px  15px rgba(148, 148, 148, .1);
+    transition: 0.3s;
+}
+
+input[type=button]:hover{
+    color: royalblue;
+    box-shadow: 0 0 20px rgb(59, 59, 59);
+    background-color: white;
+}
+input[type=button]:focus{
+    outline: none;
+}
+
+    
